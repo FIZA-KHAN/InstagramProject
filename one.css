@@ -1,0 +1,118 @@
+
+img {
+	margin-left: 420px;
+	margin-top: 100px;
+	height: 500px;
+}
+
+.one {
+ 	background-color: white;
+  	width: 300px;
+  	height: 44%;
+  	position: absolute;
+  	top: 120px;
+  	right: 450px;
+  	border: 0.2px solid black;
+}
+
+h1 {
+  	text-align: center;
+  	font-family: Arial, Helvetica, sans-serif;
+  	font-size: 25px;
+  	margin-top: 15px;
+}
+
+input {
+	text-align: left;
+  	margin-left: 44px;
+  	margin-top: 15px;
+}
+
+button {
+  	text-align: center;
+  	margin-left: 44px;
+  	margin-top: 15px;
+  	background-color: lightblue;
+  	color: white;
+}
+
+.or {
+  	text-align: center;
+  	margin-top: 20px;
+  	margin-left: 16px;
+}
+
+.log {
+  	text-align: center;
+  	margin-top: 15px;
+  	display:inline-block;
+}
+
+.fb {
+  	width: 10%;
+  	height: auto;
+  	margin-left: 80px;
+  	margin-top: 12px;
+  	float: left; 
+}
+
+.fb-login {
+  	text-decoration:none;
+  	color: blue;
+}
+
+.forgot {
+  	text-align: center;
+  	margin-left: 32px;
+  	margin-top: 5px;
+  	font-size: 13px;
+}
+
+.und {
+  	text-decoration:none;
+  	color: blue;
+}
+
+.second {
+  	background-color: white;
+  	width: 300px;
+  	height: 10%;
+  	position: absolute;
+  	bottom: 200px;
+  	right: 450px;
+  	border: 0.2px solid black;
+}
+
+.no-acc {
+  	text-align: center;
+  	padding-top: 6px;
+}
+
+.sig-up {
+  	color: blue;
+  	text-decoration:none;
+}
+
+.get-app {
+	font-size: 17px;
+	position: absolute;
+  	top: 525px;
+  	right: 560px;
+}
+
+.app-store {
+	width: 7.5%;
+  	height: auto;
+	position: absolute;
+  	top: 470px;
+  	right: 610px; 
+}
+
+.g-play {
+	width: 8.8%;
+  	height: auto;
+	position: absolute;
+  	top: 470px;
+  	right: 460px; 
+}
+
